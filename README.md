@@ -327,7 +327,7 @@ albany-airbnb-geospatial/
 │   ├── 03_geospatial_analysis.ipynb
 │   └── 04_hotspot_clustering.ipynb
 │
-├── visuals/                    # All generated maps and charts
+├── images/                    # All generated maps and charts
 │
 ├── README.md
 └── requirements.txt
