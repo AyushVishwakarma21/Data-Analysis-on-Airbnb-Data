@@ -202,49 +202,49 @@ DBSCAN clustering identified four meaningful market segments:
 ### Airbnb Listing Density by Neighborhood
 > Supply is dominated by W6 — but density alone doesn't drive demand.
 
-![Listing Density](visuals/listing_density.png)
+![Listing Density](images/listing_density.png)
 
 ---
 
 ### Average Occupancy Rate by Neighborhood
 > W14, W15, and W2 outperform the high-supply core on occupancy efficiency.
 
-![Occupancy Rate](visuals/avg_occupancy_rate.png)
+![Occupancy Rate](images/avg_occupancy_rate.png)
 
 ---
 
 ### Airbnb Listing Density Hotspots (KDE)
 > Supply intensity radiates outward from a tight southeast urban core.
 
-![Listing Hotspots](visuals/listing_density_hotspots.png)
+![Listing Hotspots](images/listing_density_hotspots.png)
 
 ---
 
 ### Occupancy Hotspots (KDE)
 > Demand is even more concentrated than supply — pointing to a zone of true marketplace intensity.
 
-![Occupancy Hotspots](visuals/occupancy_hotspots.png)
+![Occupancy Hotspots](images/occupancy_hotspots.png)
 
 ---
 
 ### Commercial Host Hotspots (KDE)
 > Professional operators cluster in multiple distinct corridors, not just the supply peak.
 
-![Commercial Hotspots](visuals/commercial_host_hotspots.png)
+![Commercial Hotspots](images/commercial_host_hotspots.png)
 
 ---
 
 ### DBSCAN Spatial Clusters
 > Albany isn't one market — it's at least three, with a significant peripheral fringe.
 
-![DBSCAN Clusters](visuals/DBSCAN_spatial_Clusters.png)
+![DBSCAN Clusters](images/DBSCAN_spatial_Clusters.png)
 
 ---
 
 ### Occupancy vs. Guest Ratings by Neighborhood
 > High occupancy and high ratings can coexist — but the relationship isn't simple.
 
-![Occupancy vs Ratings](visuals/occupancy_vs_ratings.png)
+![Occupancy vs Ratings](images/occupancy_vs_ratings.png)
 
 ---
 
